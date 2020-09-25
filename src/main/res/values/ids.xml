@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rv_heroes" type="id">rv_heroes</item>
+    <item name="tv_item_detail" type="id">tv_item_detail</item>
+</resources>
